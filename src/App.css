@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding: 10px;
 }
 
 .App-logo {
@@ -36,3 +37,32 @@
     transform: rotate(360deg);
   }
 }
+
+.Navbar{
+  margin: 5px;
+  font-size: 30px;
+  padding: 5px;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Navbar a{
+  color: green;
+  text-decoration: none;
+}
+
+
+li {
+  text-align: center;
+  padding: 14px 16px;
+  display: inline;
+  float: center; 
+}
+
+.Navbar a:hover {
+  color: white;
+}
+
+

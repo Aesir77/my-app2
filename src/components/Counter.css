@@ -1,0 +1,22 @@
+button{
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 15px;
+    background-color: black;
+    color: green;
+    transform: scale(125%);
+    
+}
+
+button:hover {
+    color: white;
+}
+
+.Counter p{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 200px;
+}
+
+
